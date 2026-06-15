@@ -1,0 +1,23 @@
+# Version control
+.git
+.gitignore
+.github
+
+# Node modules 
+node_modules
+
+# Build output
+dist
+
+# Dev/editor tooling
+.vscode
+.idea
+*.local
+
+# Docs & screenshots
+README.md
+screenshots
+
+# Docker itself
+Dockerfile
+.dockerignore
